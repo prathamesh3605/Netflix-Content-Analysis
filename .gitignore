@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment Variables
+.env
+.env.local
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Data (keep raw, ignore large processed files if needed)
+# data/processed/*.csv  # Uncomment if processed files are too large for GitHub
+
+# Logs
+*.log
